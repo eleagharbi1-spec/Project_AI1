@@ -1,2 +1,3 @@
-## Rapport
-Le rapport du projet est disponible dans le dossier /docs
+## 📄 Rapport du projet
+
+- Rapport complet : [voir le fichier](rapport.pdf)
