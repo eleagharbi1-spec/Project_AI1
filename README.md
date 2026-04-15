@@ -1,3 +1,3 @@
 ## 📄 Rapport du projet
 
-- Rapport complet : [voir le fichier](rapport.pdf)
+- Rapport complet : [voir le fichier](docs/rapport.pdf)
